@@ -4,8 +4,6 @@ import { MdOutlinePayment } from "react-icons/md";
 import { IoShirtOutline } from "react-icons/io5";
 import { BsTruck } from "react-icons/bs";
 import { ImLoop2 } from "react-icons/im";
-
-import { SingleOne, SingleTwo, SingleThree } from "../public/img";
 import Ratings from "../components/single-product/Ratings";
 import Sizes from "../components/single-product/Sizes";
 import Color from "../components/single-product/Color";
