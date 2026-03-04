@@ -121,11 +121,8 @@ const Footer = () => {
               <li className="text-white text-[18px] font-caustenmedium mb-3">
                 support@euphoria.in
               </li>
-              <li className="text-white text-[18px] font-caustenmedium mb-3">
-                Eklingpura Chouraha, Ahmedabad Main Road
-              </li>
               <li className="text-white mb-3 text-[18px] font-caustenmedium">
-                (NH 8- Near Mahadev Hotel) Udaipur, India- 313002
+                Argentina - Ciudad Autónoma de Buenos Aires 
               </li>
             </ul>
             <h4 className="text-2xl font-caustenbold text-white mt-20">
@@ -138,7 +135,7 @@ const Footer = () => {
           </div>
         </div>
         <hr className="border-[#807D7E] my-10" />
-        <p className="text-center text-white">Copyright © 2023 Browter.com</p>
+        <p className="text-center text-white">Copyright © 2026 Lucio Alejandro Argiro</p>
       </div>
     </section>
   );
