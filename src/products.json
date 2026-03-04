@@ -7,9 +7,9 @@
             "price" : 123,
             "brand": 1,
             "images": [
-                "http://localhost:5173/img/pr1.png",
-                "http://localhost:5173/img/pr2.png",
-                "http://localhost:5173/img/pr3.png"
+                "/img/pr1.png",
+                "/img/pr2.png",
+                "/img/pr3.png"
             ]
         },
         {
@@ -19,9 +19,9 @@
             "category" : 10,
             "brand": 2,
             "images": [
-                "http://localhost:5173/img/pr2.png",
-                "http://localhost:5173/img/pr2.png",
-                "http://localhost:5173/img/pr3.png"
+                "/img/pr2.png",
+                "/img/pr2.png",
+                "/img/pr3.png"
             ]
         },
         {
@@ -31,9 +31,9 @@
             "category" : 11,
             "brand": 3,
             "images": [
-                "http://localhost:5173/img/pr3.png",
-                "http://localhost:5173/img/pr2.png",
-                "http://localhost:5173/img/pr3.png"
+                "/img/pr3.png",
+                "/img/pr2.png",
+                "/img/pr3.png"
             ]
         },
         {
@@ -43,9 +43,9 @@
             "category" : 12,
             "brand": 4,
             "images": [
-                "http://localhost:5173/img/pr4.png",
-                "http://localhost:5173/img/pr2.png",
-                "http://localhost:5173/img/pr3.png"
+                "/img/pr4.png",
+                "/img/pr2.png",
+                "/img/pr3.png"
             ]
         },
         {
@@ -55,9 +55,9 @@
             "category" : 11,
             "brand": 5,
             "images": [
-                "http://localhost:5173/img/pr5.png",
-                "http://localhost:5173/img/pr2.png",
-                "http://localhost:5173/img/pr3.png"
+                "/img/pr5.png",
+                "/img/pr2.png",
+                "/img/pr3.png"
             ]
         },
         {
@@ -67,9 +67,9 @@
             "category": 9,
             "brand": 6,
             "images": [
-                "http://localhost:5173/img/pr6.png",
-                "http://localhost:5173/img/pr2.png",
-                "http://localhost:5173/img/pr3.png"
+                "/img/pr6.png",
+                "/img/pr2.png",
+                "/img/pr3.png"
             ]
         },
         {
@@ -79,9 +79,9 @@
             "category": 10,
             "brand": 7,
             "images": [
-                "http://localhost:5173/img/pr7.png",
-                "http://localhost:5173/img/pr2.png",
-                "http://localhost:5173/img/pr3.png"
+                "/img/pr7.png",
+                "/img/pr2.png",
+                "/img/pr3.png"
             ]
         },
         {
@@ -91,9 +91,9 @@
             "category": 11,
             "brand": 8,
             "images": [
-                "http://localhost:5173/img/pr8.png",
-                "http://localhost:5173/img/pr2.png",
-                "http://localhost:5173/img/pr3.png"
+                "/img/pr8.png",
+                "/img/pr2.png",
+                "/img/pr3.png"
             ]
         },
         {
@@ -103,9 +103,9 @@
             "category": 12,
             "brand": 2,
             "images": [
-                "http://localhost:5173/img/pr9.png",
-                "http://localhost:5173/img/pr2.png",
-                "http://localhost:5173/img/pr3.png"
+                "/img/pr9.png",
+                "/img/pr2.png",
+                "/img/pr3.png"
             ]
         },
         {
@@ -115,9 +115,9 @@
             "category": 9,
             "brand": 2,
             "images": [
-                "http://localhost:5173/img/pr10.png",
-                "http://localhost:5173/img/pr2.png",
-                "http://localhost:5173/img/pr3.png"
+                "/img/pr10.png",
+                "/img/pr2.png",
+                "/img/pr3.png"
             ]
         },
         {
@@ -127,9 +127,9 @@
             "category": 11,
             "brand": 3,
             "images": [
-                "http://localhost:5173/img/pr11.png",
-                "http://localhost:5173/img/pr2.png",
-                "http://localhost:5173/img/pr3.png"
+                "/img/pr11.png",
+                "/img/pr2.png",
+                "/img/pr3.png"
             ]
         },
         {
@@ -139,9 +139,9 @@
             "category": 12,
             "brand": 3,
             "images": [
-                "http://localhost:5173/img/pr12.png",
-                "http://localhost:5173/img/pr2.png",
-                "http://localhost:5173/img/pr3.png"
+                "/img/pr12.png",
+                "/img/pr2.png",
+                "/img/pr3.png"
             ]
         },
         {
@@ -151,9 +151,9 @@
             "category": 5,
             "brand": 9,
             "images": [
-                "http://localhost:5173/img/pr13.png",
-                "http://localhost:5173/img/pr14.png",
-                "http://localhost:5173/img/pr15.png"
+                "/img/pr13.png",
+                "/img/pr14.png",
+                "/img/pr15.png"
             ]
         },
         {
@@ -163,9 +163,9 @@
             "category": 7,
             "brand": 10,
             "images": [
-                "http://localhost:5173/img/pr14.png",
-                "http://localhost:5173/img/pr14.png",
-                "http://localhost:5173/img/pr15.png"
+                "/img/pr14.png",
+                "/img/pr14.png",
+                "/img/pr15.png"
             ]
         },
         {
@@ -175,9 +175,9 @@
             "category": 5,
             "brand": 10,
             "images": [
-                "http://localhost:5173/img/pr15.png",
-                "http://localhost:5173/img/pr14.png",
-                "http://localhost:5173/img/pr15.png"
+                "/img/pr15.png",
+                "/img/pr14.png",
+                "/img/pr15.png"
             ]
         },
         {
@@ -187,9 +187,9 @@
             "category": 2,
             "brand": 11,
             "images": [
-                "http://localhost:5173/img/pr16.png",
-                "http://localhost:5173/img/pr14.png",
-                "http://localhost:5173/img/pr15.png"
+                "/img/pr16.png",
+                "/img/pr14.png",
+                "/img/pr15.png"
             ]
         },
         {
@@ -199,9 +199,9 @@
             "category": 1,
             "brand": 10,
             "images": [
-                "http://localhost:5173/img/pr17.png",
-                "http://localhost:5173/img/pr14.png",
-                "http://localhost:5173/img/pr15.png"
+                "/img/pr17.png",
+                "/img/pr14.png",
+                "/img/pr15.png"
             ]
         }
     ],
@@ -209,73 +209,73 @@
         {
             "id": 1,
             "name": "Shirts",
-            "image" : "http://localhost:5173/img/men-1.png",
+            "image" : "/img/men-1.png",
             "parent": 13
         },
         {
             "id": 2,
             "name": "Printed T-Shirts",
-            "image":"http://localhost:5173/img/men-2.png",
+            "image":"/img/men-2.png",
             "parent": 13
         },
         {
             "id": 3,
             "name": "Plain T-Shirt",
-            "image":"http://localhost:5173/img/men-3.png",
+            "image":"/img/men-3.png",
             "parent": 13
         },
         {
             "id": 4,
             "name": "Polo T-Shirt",
-            "image":"http://localhost:5173/img/men-4.png",
+            "image":"/img/men-4.png",
             "parent": 13
         },
         {
             "id": 5,
             "name": "Hoodies & Sweetshirt",
-            "image":"http://localhost:5173/img/men-5.png",
+            "image":"/img/men-5.png",
             "parent": 13
         },
         {
             "id": 6,
             "name": "Jeans",
-            "image":"http://localhost:5173/img/men-6.png",
+            "image":"/img/men-6.png",
             "parent": 13
         },
         {
             "id": 7,
             "name": "Activewear",
-            "image":"http://localhost:5173/img/men-7.png",
+            "image":"/img/men-7.png",
             "parent": 13
         },
         {
             "id": 8,
             "name": "Boxers",
-            "image":"http://localhost:5173/img/men-8.png",
+            "image":"/img/men-8.png",
             "parent": 13
         },
         {
             "id": 9,
             "name": "Hoodies & Sweetshirt",
-            "image":"http://localhost:5173/img/women-1.png",
+            "image":"/img/women-1.png",
             "parent": 14
         },
         {
             "id": 10,
             "name": "Coats & Parkas",
-            "image":"http://localhost:5173/img/women-2.png",
+            "image":"/img/women-2.png",
             "parent": 14
         },
         {
             "id": 11,
             "name": "Tees & T-Shirt",
-            "image":"http://localhost:5173/img/women-3.png",
+            "image":"/img/women-3.png",
             "parent": 14
         },
         {
             "id": 12,
             "name": "Boxers",
-            "image":"http://localhost:5173/img/women-4.png",
+            "image":"/img/women-4.png",
             "parent": 14
         },
         {
